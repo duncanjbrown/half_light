@@ -1,0 +1,12 @@
+docstring-to-markdown==0.12
+glfw==2.5.9
+jedi==0.18.2
+parso==0.8.3
+pluggy==1.0.0
+PyOpenGL==3.1.6
+PyQt6==6.5.0
+PyQt6-Qt6==6.5.0
+PyQt6-sip==13.5.0
+python-lsp-jsonrpc==1.0.0
+python-lsp-server==1.7.2
+ujson==5.7.0
