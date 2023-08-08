@@ -1,6 +1,14 @@
 # half_light
 
-control a colour field
+![half_light](/screenshots/screenshot.png)
+
+control a colour field using reactive sliders, either RGB or HSV
+
+use separate Processes for GUI and output
+
+prototype to run on an embedded system where the operator can use
+physical knobs to change the colour of an LCD panel, hence swappable
+`GUIColourControls`
 
 ## installation
 
